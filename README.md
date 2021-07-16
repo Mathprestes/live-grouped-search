@@ -3,7 +3,7 @@
 <p>
 
 <p align="center">
-  <img alt="FOTO PERFIL" src="/img/foto_perfil.png" width="250px"/>
+  <img alt="FOTO PERFIL" src="foto_perfil.png" width="250px"/>
 <p>
 
 <p align="center">
